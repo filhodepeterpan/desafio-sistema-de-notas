@@ -2,6 +2,8 @@
 
 class Program{
     static void Main(){
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        
         int tarefas = 5;
 
         int[] notasSophia = {90, 86, 87, 98, 100, 94, 90};
