@@ -4,15 +4,15 @@ class Program{
     static void Main(){
         int tarefas = 5;
 
-        int[] notasSophia = [90, 86, 87, 98, 100, 94, 90];
-        int[] notasAndre = [92, 89, 81, 96, 90, 89];
-        int[] notasKarla = [90, 85, 87, 98, 68, 89, 89, 89];
-        int[] notasIgor = [90, 95, 87, 88, 96, 96];
-        int[] notasJulia = [29, 58, 61, 78, 55];
-        int[] notasRonaldo = [82, 72, 81, 65, 90, 87];
-        int[] notasMaria = [83, 77, 82, 86, 90, 89];
+        int[] notasSophia = {90, 86, 87, 98, 100, 94, 90};
+        int[] notasAndre = {92, 89, 81, 96, 90, 89};
+        int[] notasKarla = {90, 85, 87, 98, 68, 89, 89, 89};
+        int[] notasIgor = {90, 95, 87, 88, 96, 96};
+        int[] notasJulia = {29, 58, 61, 78, 55};
+        int[] notasRonaldo = {82, 72, 81, 65, 90, 87};
+        int[] notasMaria = {83, 77, 82, 86, 90, 89};
 
-        string[] nomesDosEstudantes = ["Sophia", "André", "Karla", "Igor", "Júlia", "Ronaldo", "Maria"];
+        string[] nomesDosEstudantes = {"Sophia", "André", "Karla", "Igor", "Júlia", "Ronaldo", "Maria"};
 
         int[] notasDosEstudantes = new int [0];
 
